@@ -3,4 +3,5 @@ Git is a distributed version control system.
 Git is free software.
 Creating a new branch is quick & simple1.
 branch feature3 and switch master again
-branch dev
+developing on branch dev
+add coding: utf-8
